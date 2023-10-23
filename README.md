@@ -7,6 +7,6 @@ This project is to stream video from your device camera to other devices in the 
 2. Clone this repo or download as zip.
 3. Open terminal or CMD in project folder
 4. Install requirements by running the following command
- '''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 5. Run main.py with the following command
-   '''python main.py''' 
+   ```python main.py```
