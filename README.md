@@ -1,2 +1,2 @@
-# LocalStreaming
-Streaming video in local network
+# Local Streaming
+## Streaming video in local network
